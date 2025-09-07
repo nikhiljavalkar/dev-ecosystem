@@ -1,0 +1,1 @@
+test('formatDate should format date correctly', () => { expect(formatDate('2022-01-15')).toBe('1/15/2022'); });

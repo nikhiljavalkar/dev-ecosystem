@@ -1,3 +1,6 @@
-# dev-ecosystem
-Test code base
-This is a test code base created by Nikhil Javalkar
+# Project Name
+This is the README file for the project.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+This project now includes an AI developer agent for bug fixing.
